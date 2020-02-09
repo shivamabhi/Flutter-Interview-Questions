@@ -27,3 +27,4 @@ title: Flutter Interview Questions
 * How would you access `StatefulWidget` properties from its State?
 * Is there a suggested limit to the number of `FloatingActionButton`s a screen can have? Give a reason(s) for your answer
 * Mention two or more operations that would require you to use or return a Future.
+* How to clear stack mamory in flutter?
